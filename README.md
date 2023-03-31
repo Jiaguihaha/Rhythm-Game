@@ -1,4 +1,4 @@
-# Title: Rhythm game
+# Title Rhythm game
 
 **Purpose** The puepose of this project is to have a rough understanding and a genarel feeling of what it is like to work on a big project. 
 
